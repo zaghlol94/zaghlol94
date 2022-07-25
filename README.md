@@ -40,7 +40,7 @@ implementing ML/DL across multiple domains.
 
 - 😄 Pronouns: ...
   
-  * He/Him
+  * He/Him/His
 
 
 <!--
