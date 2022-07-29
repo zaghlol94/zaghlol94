@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-ZAG is a machine learning research engineer and MS.c student in Data Science (Computer Science) at Paderborn University, Specializing in filling the gap between
+ZAG is a machine learning engineer and MS.c student in Data Science (Computer Science) at Paderborn University, Specializing in filling the gap between
 the research in Machine/Deep learning theory and the software industry by
 implementing state-of-the-art models and scale them to operate well in scalable
 /reliable data project pipeline, has in-depth theoretical knowledge and hands-on
