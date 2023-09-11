@@ -2,11 +2,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-ZAG is a Data Scientist| ML Engineer who has a MS.c degree in Data Science (Computer Science) from Paderborn University, interested in filling the gap between
-the research in Machine/Deep learning theory and the software industry by implementing state-of-the-art models and scaling them to operate well in scalable
-/reliable data project pipeline has in-depth theoretical knowledge and hands-on
-experience in a diverse set of ML/DL libraries with 5 years of professional experience in
-implementing ML/DL across multiple domains.
+Hello! I'm ZAG, a Data Scientist and Machine Learning Engineer with a passion for bringing cutting-edge research in the fields of Machine Learning and Deep Learning to life in the software industry. I hold a Master's degree in Data Science (Computer Science) from Paderborn University and have dedicated myself to the mission of integrating the latest theoretical advancements into practical, scalable, and reliable data project pipelines.
+
+My expertise lies at the intersection of academic theory and real-world implementation. I thrive on turning state-of-the-art models into robust solutions that excel in the dynamic landscape of data projects. With an extensive background in both the theoretical foundations and hands-on application of Machine Learning and Deep Learning techniques, I bring a unique blend of knowledge and experience to the table.
+
+Over the course of my career, which spans five years, I have successfully deployed ML/DL solutions across a wide array of domains. Whether it's computer vision, natural language processing, recommendation systems, or any other area, I have consistently delivered results that meet the demands of modern data-driven industries.
+
+My mission is to make the complex world of Machine Learning and Deep Learning accessible and practical for businesses and projects of all sizes. I believe that the power of data should be harnessed to its fullest potential, and I am here to help you navigate the journey from theory to scalable, reliable solutions.
+
+Explore my GitHub repositories and discover how I can assist you in transforming your data challenges into opportunities for success. Together, we can bridge the gap between cutting-edge research and the practical implementation that drives innovation in today's data-driven world.
 
 - 🔭 Paper that I have implemented from scratch ...
 
