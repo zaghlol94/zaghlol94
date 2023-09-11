@@ -1,6 +1,6 @@
 ### Hi there, it's ZAG 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200", height=200/>
 </div>
 Hello! I'm ZAG, a Data Scientist and Machine Learning Engineer with a passion for bringing cutting-edge research in the fields of Machine Learning and Deep Learning to life in the software industry. I hold a Master's degree in Data Science (Computer Science) from Paderborn University and have dedicated myself to the mission of integrating the latest theoretical advancements into practical, scalable, and reliable data project pipelines.
 
