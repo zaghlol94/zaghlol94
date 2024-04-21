@@ -33,7 +33,7 @@ Explore my GitHub repositories and discover how I can assist you in transforming
 
 - 🌱 I’m currently learning ...
 
-    * Graph neural network
+    * Generative AI 
     * Audio Signal Processing
 - 📫 How to reach me: ...
   * [Linkedin](https://www.linkedin.com/in/mohamed-zaghlol-40115194/)
