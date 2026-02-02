@@ -37,8 +37,6 @@ Explore my GitHub repositories and discover how I can assist you in transforming
     * Audio Signal Processing
 - 📫 How to reach me: ...
   * [Linkedin](https://www.linkedin.com/in/mohamed-zaghlol-40115194/)
-  * [Twitter](https://twitter.com/zaghlolliiight)
-  * [Facebook](https://www.facebook.com/za8lollight/)
   * Mail: zag.abdo94@gmail.com
 
 - 😄 Pronouns: ...
